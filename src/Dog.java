@@ -31,6 +31,9 @@ public class Dog {
 
         myDog.sit();
 
+        Rect myShape = new Rect(2.0f,2.0f, "red");
+System.out.println(myShape.color);
+
 
     }
 
